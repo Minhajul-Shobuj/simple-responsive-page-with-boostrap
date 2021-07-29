@@ -1,3 +1,4 @@
+/* header-part */
 header{
     background-color: #264653;
     ;
@@ -10,14 +11,17 @@ header{
     border-radius: 5px;
     background: #E76F51;
 }
+/* header-part end*/
+
+/* all colorfull text of body */
 .colorfull-txt{
     color: #E76F51;
 }
+
+/* client-section */
 .client img{
-    height: 149px;
-    width: 200px;
-    border: 2px solid wheat;
-    border-radius: 100px;
+    height: 150px;
+    width: 90%;
 }
 .rating{
     color:  #E77C40;
@@ -26,3 +30,4 @@ header{
     color: #23A6F0;
     ;
 }
+/* client-section end */
