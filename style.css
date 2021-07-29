@@ -1,0 +1,28 @@
+header{
+    background-color: #264653;
+    ;
+}
+.button{
+    text-decoration: none;
+    width: 168;
+    height: 44px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #E76F51;
+}
+.colorfull-txt{
+    color: #E76F51;
+}
+.client img{
+    height: 149px;
+    width: 200px;
+    border: 2px solid wheat;
+    border-radius: 100px;
+}
+.rating{
+    color:  #E77C40;
+}
+.client-name{
+    color: #23A6F0;
+    ;
+}
