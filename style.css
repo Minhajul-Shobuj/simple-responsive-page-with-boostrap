@@ -20,8 +20,8 @@ header{
 
 /* client-section */
 .client img{
-    height: 150px;
-    width: 90%;
+    height: 35%;
+    width: 80%;
 }
 .rating{
     color:  #E77C40;
